@@ -1160,7 +1160,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b96b45a5-39ed-482e-94f1-040d06f2f910)
     )
-    (fp_text value "74LS259" (at 0 5.9 90) (layer "F.Fab")
+    (fp_text value "74HC259" (at 0 5.9 90) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c3948742-549c-42f9-9b3f-7ccbd9b2fa5e)
     )

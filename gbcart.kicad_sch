@@ -4062,7 +4062,7 @@
     (property "Reference" "U4" (id 0) (at 142.9894 86.36 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "74LS259" (id 1) (at 142.9894 88.9 0)
+    (property "Value" "74HC259" (id 1) (at 142.9894 88.9 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_SO:SO-16_3.9x9.9mm_P1.27mm" (id 2) (at 140.97 104.14 0)
@@ -5627,7 +5627,7 @@
       (reference "U3") (unit 1) (value "74HCT1G125") (footprint "Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering")
     )
     (path "/10673c6d-0fa1-4b16-8dab-ed0f08225d3e"
-      (reference "U4") (unit 1) (value "74LS259") (footprint "Package_SO:SO-16_3.9x9.9mm_P1.27mm")
+      (reference "U4") (unit 1) (value "74HC259") (footprint "Package_SO:SO-16_3.9x9.9mm_P1.27mm")
     )
     (path "/840b8156-7ec7-4a82-81b5-523223ee7684"
       (reference "U5") (unit 1) (value "29F040-TSOP-SP") (footprint "Package_SO:TSOP-I-32_18.4x8mm_P0.5mm")
