@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "Memory_AM29F040")(type "KiCad")(uri "${KIPRJMOD}/Memory_AM29F040.kicad_sym")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/libraries/Espressif.kicad_sym")(options "")(descr ""))
 )
