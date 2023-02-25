@@ -9735,6 +9735,12 @@
   (gr_text "DEV" (at 99.568 89.662) (layer "B.Cu") (tstamp 2f43f174-22e5-4fc7-9275-a305afb74e3f)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
+  (gr_text "GBC" (at 124.714 85.852) (layer "F.SilkS") (tstamp 1aded1de-9965-45ce-a4c2-be0a7813f509)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
+  (gr_text "EPROM" (at 158.242 85.598) (layer "F.SilkS") (tstamp 2d91309a-e94e-4aa7-b17a-6676334f1fb5)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
 
   (segment (start 117.3385 131.8734) (end 123.9046 131.8734) (width 0.25) (layer "F.Cu") (net 1) (tstamp 28aa27af-b772-4e11-bc61-d7af7e593ad7))
   (segment (start 92.331 125.73) (end 111.1951 125.73) (width 0.25) (layer "F.Cu") (net 1) (tstamp 8024137d-587f-4691-ba79-4c1025862ade))
