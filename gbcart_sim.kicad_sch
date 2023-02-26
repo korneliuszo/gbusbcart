@@ -4017,7 +4017,7 @@
   (symbol (lib_id "power:+5V") (at 106.68 114.3 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4322f36d-0131-46df-9889-eb45983e57c3)
-    (property "Reference" "#PWR?" (id 0) (at 106.68 118.11 0)
+    (property "Reference" "#PWR0107" (id 0) (at 106.68 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (id 1) (at 109.22 113.0299 0)
@@ -4103,7 +4103,7 @@
   (symbol (lib_id "power:GND") (at 105.41 110.49 180) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 523411b2-3603-4b3e-b6f3-7fd68a08189a)
-    (property "Reference" "#PWR?" (id 0) (at 105.41 104.14 0)
+    (property "Reference" "#PWR0105" (id 0) (at 105.41 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 105.41 105.41 0))
@@ -4754,7 +4754,7 @@
   (symbol (lib_id "power:GND") (at 106.68 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid dfd72bdc-4a88-46a1-a956-4f5f7f5612c0)
-    (property "Reference" "#PWR?" (id 0) (at 106.68 123.19 0)
+    (property "Reference" "#PWR0106" (id 0) (at 106.68 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 109.22 118.1099 0)
@@ -4987,7 +4987,7 @@
   (symbol (lib_id "74xGxx:74AHC1G125") (at 105.41 115.57 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fc9177a7-bc41-4270-bf1d-f64afb558963)
-    (property "Reference" "U?" (id 0) (at 104.775 120.65 0))
+    (property "Reference" "U7" (id 0) (at 104.775 120.65 0))
     (property "Value" "74HCT1G125" (id 1) (at 104.775 123.19 0))
     (property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering" (id 2) (at 105.41 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5117,14 +5117,14 @@
     (path "/289fc35a-c856-4e6d-b0d9-3cbdc799c851"
       (reference "#PWR0104") (unit 1) (value "+3.3V") (footprint "")
     )
-    (path "/4322f36d-0131-46df-9889-eb45983e57c3"
-      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
-    )
     (path "/523411b2-3603-4b3e-b6f3-7fd68a08189a"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0105") (unit 1) (value "GND") (footprint "")
     )
     (path "/dfd72bdc-4a88-46a1-a956-4f5f7f5612c0"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0106") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/4322f36d-0131-46df-9889-eb45983e57c3"
+      (reference "#PWR0107") (unit 1) (value "+5V") (footprint "")
     )
     (path "/49ce2515-fd5a-40e0-9860-0e59365ec9c8"
       (reference "C1") (unit 1) (value "47uF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D")
@@ -5217,7 +5217,7 @@
       (reference "U6") (unit 1) (value "NC7SZ08") (footprint "Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering")
     )
     (path "/fc9177a7-bc41-4270-bf1d-f64afb558963"
-      (reference "U?") (unit 1) (value "74HCT1G125") (footprint "Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering")
+      (reference "U7") (unit 1) (value "74HCT1G125") (footprint "Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering")
     )
   )
 )
