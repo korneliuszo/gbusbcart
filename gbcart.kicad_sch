@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (rev "DEV")
+    (rev "2.0")
   )
 
   (lib_symbols

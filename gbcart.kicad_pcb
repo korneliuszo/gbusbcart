@@ -70,7 +70,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "gerbers/")
+      (outputdirectory "gbusbcart/gerbers/")
     )
   )
 
@@ -10246,7 +10246,7 @@
   (gr_line locked (start 98.125 112.395) (end 98.125 59.995) (layer "Edge.Cuts") (width 0.15) (tstamp cf803aee-932e-4876-b4e7-c9ce5ec1cb8d))
   (gr_line locked (start 149.525 62.595) (end 145.525 62.595) (layer "Edge.Cuts") (width 0.15) (tstamp d32e0c29-874c-4fd3-80be-dd052b23a2c4))
   (gr_line locked (start 99.225 112.395) (end 98.125 112.395) (layer "Edge.Cuts") (width 0.15) (tstamp e0d02ef3-4d17-415c-80fd-92934b4bfe8e))
-  (gr_text "DEV" (at 128.27 89.154) (layer "B.Cu") (tstamp 3ffe1d85-6aa7-4567-8bf9-317202afb8f9)
+  (gr_text "v2.0" (at 128.27 89.154) (layer "B.Cu") (tstamp 3ffe1d85-6aa7-4567-8bf9-317202afb8f9)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
   (gr_text "GBUSBCART" (at 124.206 85.598) (layer "B.Cu") (tstamp 9d4445c4-64ec-4982-ada1-69fa7d9ca66e)
